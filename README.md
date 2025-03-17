@@ -1,4 +1,4 @@
-<h2 class = "titulo">Olá, Seja bem vindo(a)! me chamo Vinicius e esse é meu perfil como um semi-profissional.
+<h2 class = "titulo">Olá, Seja bem vindo(a)! me chamo Vinicius e esse é meu perfil como um semi-profissional na aréa de ciber segurança.
 
 <br>
 
