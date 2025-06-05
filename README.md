@@ -13,7 +13,7 @@
 <div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinicius-Luiz07&show_icons=true&theme=tokyonight)
-    <h4 class = "titulo"> Tecnologias das quais possuo, no mínimo, um conhecimento básico.
+    <h4 class = "titulo"> Tecnologias das quais possuo um conhecimento básico.
 <br>
 <div style = "display: inline_block" class = "retangulo2"></br>
     <img align = "center" alt = "html5" src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
