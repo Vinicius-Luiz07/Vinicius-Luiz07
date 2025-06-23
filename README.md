@@ -1,26 +1,69 @@
-<h2 class = "titulo">Olá, Seja bem vindo(a)! me chamo Vinicius e esse é meu perfil como um semi-profissional na aréa de ciber segurança.
+<div align = "center">
+    <h1 class = "h1">
+        𝗛𝗲𝗹𝗹𝗼, 𝗗𝗲𝘃𝘀.
+    </h1>
+</div>
+
+<div align = "center">
+    <img src = "https://i.ibb.co/nsLgCtnX/linha-Titulo.png" alt = "linhaTitulo" width = "1000px">
+</div>
 
 <br>
+<div align="center">
+  <img src="https://tenor.com/view/aesthetic-anime-gif-18550299.gif" alt="Banner inicial github" height = "300" width = "600">
+</div>
 <br>
 
-<span style="color: white;">A seguir, encontram-se as formas de contato.</span>
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinni_lp07/)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/wa0yvfm0ickvhwc8nm12as5tb?si=c57d08c7c84e48d7)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://viniciusluiz8058@gmail.com)
+<div align = "center">
+    <h2 class = "titulo">𝗛𝗲𝗹𝗹𝗼, 𝘄𝗲𝗹𝗰𝗼𝗺𝗲. 𝗠𝘆 𝗻𝗮𝗺𝗲 𝗶𝘀 𝗩𝗶𝗻𝗶𝗰𝗶𝘂𝘀 𝗮𝗻𝗱 𝘁𝗵𝗶𝘀 𝗶𝘀 𝗺𝘆 𝗽𝗿𝗼𝗳𝗶𝗹𝗲 𝗮𝘀 𝗮 𝘀𝗲𝗺𝗶-𝗽𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗶𝗻 𝘁𝗵𝗲 𝗰𝘆𝗯𝗲𝗿𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗳𝗶𝗲𝗹𝗱.
+</div>
 
 <br>
-<div>
+<div align = "left">
+    <h2 class = "subtitulo">𝗕𝗲𝗹𝗼𝘄 𝗮𝗿𝗲 𝘁𝗵𝗲 𝗰𝗼𝗻𝘁𝗮𝗰𝘁 𝗱𝗲𝘁𝗮𝗶𝗹𝘀:</h3>
+    <br>
+   <div align = "display">
+        <a href="https://www.instagram.com/vinni_lp07/">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo">
+        <a href = "https://www.linkedin.com/in/vinícius-luiz-b55965283/">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo">
+        <a href = "https://discord.gg/santuario">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo">
+   </div>
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinicius-Luiz07&show_icons=true&theme=tokyonight)
-    <h4 class = "titulo"> Tecnologias das quais possuo um conhecimento básico.
 <br>
-<div style = "display: inline_block" class = "retangulo2"></br>
-    <img align = "center" alt = "html5" src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-    <img align = "center" alt = "html5" src = "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-    <img align = "center" alt = "html5" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align = "center" alt = "html5" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img align = "center" alt = "html5" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img align = "center" alt = "html5" src = "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 
+<p align = "left">
+    <img src = "https://github-readme-stats.vercel.app/api?username=Vinicius-Luiz07&show_icons=true&theme=tokyonight" alt = "status github">
+</p>
+    <h3 class = "titulo"> 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 𝗼𝗳 𝘄𝗵𝗶𝗰𝗵 𝗜 𝗵𝗮𝘃𝗲 𝗯𝗮𝘀𝗶𝗰 𝗸𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲.
+<br>
+<div style = "display: inline_block" class = "tecnologias"></br>
+    <p align = "left" font-size = "10">𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱:</p>
+    <img align = "center" alt = "html5" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40">
+    <img align = "center" alt = "css" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40">
+    <img align = "center" alt = "javascript" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40">
+    <img align = "center" alt = "reactjs" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"> 
+    <br>
+    <br>
+    <p align = "left">𝗕𝗮𝗰𝗸-𝗲𝗻𝗱:</p>
+    <img align = "center" alt = "java" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40">
+    <img align = "center" alt = "ruby" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40">
+    <img align = "center" alt = "spring" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40">
+    <img align = "center" alt = "nodejs" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40">
+    <br>
+    <br>
+    <p align = "left">𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲:</p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
 </div></br>
+
+<div align = "center">
+    <div class = "notas">
+        <h2> 𝗧𝗵𝗮𝗻𝗸 𝘆𝗼𝘂 𝘃𝗲𝗿𝘆 𝗺𝘂𝗰𝗵, 𝗴𝗼𝗼𝗱𝗯𝘆𝗲...
+    </div>
+    <div class = "footer">
+    </div>
+</div>
