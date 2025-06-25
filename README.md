@@ -10,7 +10,7 @@
 
 <br>
 <div align="center">
-  <img src="https://tenor.com/view/aesthetic-anime-gif-18550299.gif" alt="Banner inicial github" height = "300" width = "600">
+  <img src="https://media1.tenor.com/m/JxMYVQsA2gcAAAAC/stars-sky.gif" alt="Banner inicial github" height = "200" width = "700">
 </div>
 <br>
 
@@ -22,16 +22,12 @@
 <div align = "left">
     <h2 class = "subtitulo">𝗕𝗲𝗹𝗼𝘄 𝗮𝗿𝗲 𝘁𝗵𝗲 𝗰𝗼𝗻𝘁𝗮𝗰𝘁 𝗱𝗲𝘁𝗮𝗶𝗹𝘀:</h3>
     <br>
-   <div align = "display">
-        <a href="https://www.instagram.com/vinni_lp07/">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo">
-        <a href = "https://www.linkedin.com/in/vinícius-luiz-b55965283/">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo">
-        <a href = "https://discord.gg/santuario">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo">
-   </div>
 </div>
-
+<div align="display">
+    <a href="https://www.instagram.com/vinni_lp07/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"></a>
+    <a href="https://www.linkedin.com/in/vinícius-luiz-b55965283/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"></a>
+    <a href="https://discord.gg/santuario"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"></a>
+</div>
 <br>
 
 <p align = "left">
@@ -59,11 +55,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
 </div></br>
-
-<div align = "center">
-    <div class = "notas">
-        <h2> 𝗧𝗵𝗮𝗻𝗸 𝘆𝗼𝘂 𝘃𝗲𝗿𝘆 𝗺𝘂𝗰𝗵, 𝗴𝗼𝗼𝗱𝗯𝘆𝗲...
-    </div>
-    <div class = "footer">
-    </div>
+<div align="center">
+    <img src = "https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=𝗧𝗵𝗮𝗻𝗸+𝘆𝗼𝘂+𝘃𝗲𝗿𝘆+𝗺𝘂𝗰𝗵,+𝗴𝗼𝗼𝗱𝗯𝘆𝗲..." alt="Typing SVG">
+    <br>
+    <img src = "https://i.ibb.co/nsLgCtnX/linha-Titulo.png" alt = "linhaTitulo" width = "1000px">
 </div>
