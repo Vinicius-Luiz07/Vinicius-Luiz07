@@ -56,7 +56,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
 </div></br>
 <div align="center">
-    <img src = "https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=𝗧𝗵𝗮𝗻𝗸+𝘆𝗼𝘂+𝘃𝗲𝗿𝘆+𝗺𝘂𝗰𝗵,+𝗴𝗼𝗼𝗱𝗯𝘆𝗲..." alt="Typing SVG">
+    <img align = "center "src = "https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=𝗧𝗵𝗮𝗻𝗸+𝘆𝗼𝘂+𝘃𝗲𝗿𝘆+𝗺𝘂𝗰𝗵,+𝗴𝗼𝗼𝗱𝗯𝘆𝗲..." alt="Typing SVG">
     <br>
     <img src = "https://i.ibb.co/nsLgCtnX/linha-Titulo.png" alt = "linhaTitulo" width = "1000px">
 </div>
