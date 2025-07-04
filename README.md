@@ -33,7 +33,7 @@
 <br>
 
 <p align = "left">
-    <img src = "https://github-readme-stats.vercel.app/api?username=Vinicius-Luiz07&show_icons=true&theme=tokyonight" alt = "status github">
+    <img src = "https://github-readme-stats.vercel.app/api?username=Vinicius-Luiz07&show_icons=true&theme=github_dark" alt = "status github">
 </p>
     <h3 class = "titulo"> 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 𝗼𝗳 𝘄𝗵𝗶𝗰𝗵 𝗜 𝗵𝗮𝘃𝗲 𝗯𝗮𝘀𝗶𝗰 𝗸𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲.
 <br>
