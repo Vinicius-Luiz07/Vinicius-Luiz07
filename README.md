@@ -3,11 +3,6 @@
         𝗛𝗲𝗹𝗹𝗼, 𝗗𝗲𝘃𝘀.
     </h1>
 </div>
-
-<div align = "center">
-    <img src = "https://i.ibb.co/nsLgCtnX/linha-Titulo.png" alt = "linhaTitulo" width = "1000px">
-</div>
-
 <br>
 <div align="center">
   <img src="https://media1.tenor.com/m/JxMYVQsA2gcAAAAC/stars-sky.gif" alt="Banner inicial github" height = "200" width = "700">
@@ -61,5 +56,4 @@
 <div align="center">
     <img align = "center "src = "https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=𝗧𝗵𝗮𝗻𝗸+𝘆𝗼𝘂+𝘃𝗲𝗿𝘆+𝗺𝘂𝗰𝗵,+𝗴𝗼𝗼𝗱𝗯𝘆𝗲..." alt="Typing SVG">
     <br>
-    <img src = "https://i.ibb.co/nsLgCtnX/linha-Titulo.png" alt = "linhaTitulo" width = "1000px">
 </div>
