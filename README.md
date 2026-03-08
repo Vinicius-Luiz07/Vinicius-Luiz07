@@ -21,7 +21,6 @@
 <div align="display">
     <a href="https://www.instagram.com/vinni_lp07/"><img src="https://i.pinimg.com/736x/62/8c/31/628c312ab70e2a5de38b98ee1eea4647.jpg" width="60" height="60" alt="instagram logo"></a>
     <a href="https://www.linkedin.com/in/vinícius-luiz-b55965283/"><img src="https://i.pinimg.com/736x/19/40/ab/1940abcfbcbdbdb11b1b8fdbf2f01973.jpg" width="60" height="60" alt="linkedin logo"></a>
-    <a href="https://discord.gg/santuario"><img src="https://i.pinimg.com/736x/45/cf/49/45cf49b84f0e12b244fe8f6202f82b82.jpg" width="60" height="60" alt="discord logo"></a>
     <a href="https://steamcommunity.com/profiles/76561199296382445/"><img src="https://i.pinimg.com/736x/e8/61/de/e861de5a9ad11ccc53708028df8b8c63.jpg" width="60" height="60" alt="steam logo"></a>
     <a href="https://open.spotify.com/user/wa0yvfm0ickvhwc8nm12as5tb?si=f998aba512d94647"><img src="https://i.pinimg.com/736x/56/ec/4d/56ec4d08b33aefa1f96cdab2412b1916.jpg" width="60" height="60" alt="spotify logo"></a>
     <a href="https://x.com/vinni_lp01"><img src="https://i.pinimg.com/1200x/b2/68/83/b268838fe5a0c0ca504c2fc103843ae3.jpg" width="60" height="60" alt="iconX"></a>
