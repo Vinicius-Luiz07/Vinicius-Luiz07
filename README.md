@@ -18,13 +18,15 @@
     <h2 class = "subtitulo">𝗕𝗲𝗹𝗼𝘄 𝗮𝗿𝗲 𝘁𝗵𝗲 𝗰𝗼𝗻𝘁𝗮𝗰𝘁 𝗱𝗲𝘁𝗮𝗶𝗹𝘀:</h3>
     <br>
 </div>
-<div align="display">
-    <a href="https://www.instagram.com/vinni_lp07/"><img src="https://i.pinimg.com/736x/62/8c/31/628c312ab70e2a5de38b98ee1eea4647.jpg" width="60" height="60" alt="instagram logo"></a>
-    <a href="https://www.linkedin.com/in/vinicius-luiz-cyber/"><img src="https://i.pinimg.com/736x/19/40/ab/1940abcfbcbdbdb11b1b8fdbf2f01973.jpg" width="60" height="60" alt="linkedin logo"></a>
-    <a href="https://steamcommunity.com/profiles/76561199296382445/"><img src="https://i.pinimg.com/736x/e8/61/de/e861de5a9ad11ccc53708028df8b8c63.jpg" width="60" height="60" alt="steam logo"></a>
-    <a href="https://open.spotify.com/user/wa0yvfm0ickvhwc8nm12as5tb?si=f998aba512d94647"><img src="https://i.pinimg.com/736x/56/ec/4d/56ec4d08b33aefa1f96cdab2412b1916.jpg" width="60" height="60" alt="spotify logo"></a>
-    <a href="https://x.com/vinni_lp01"><img src="https://i.pinimg.com/1200x/b2/68/83/b268838fe5a0c0ca504c2fc103843ae3.jpg" width="60" height="60" alt="iconX"></a>
-</div>
+<table>
+  <tr>
+    <td><a href="https://www.instagram.com/vinni_lp07/"><img src="https://i.pinimg.com/736x/62/8c/31/628c312ab70e2a5de38b98ee1eea4647.jpg" width="60" height="60" alt="instagram logo"></a></td>
+    <td><a href="https://www.linkedin.com/in/vinicius-luiz-cyber/"><img src="https://i.pinimg.com/736x/19/40/ab/1940abcfbcbdbdb11b1b8fdbf2f01973.jpg" width="60" height="60" alt="linkedin logo"></a></td>
+    <td><a href="https://steamcommunity.com/profiles/76561199296382445/"><img src="https://i.pinimg.com/736x/e8/61/de/e861de5a9ad11ccc53708028df8b8c63.jpg" width="60" height="60" alt="steam logo"></a></td>
+    <td><a href="https://open.spotify.com/user/wa0yvfm0ickvhwc8nm12as5tb?si=f998aba512d94647"><img src="https://i.pinimg.com/736x/56/ec/4d/56ec4d08b33aefa1f96cdab2412b1916.jpg" width="60" height="60" alt="spotify logo"></a></td>
+    <td><a href="https://x.com/vinni_lp01"><img src="https://i.pinimg.com/1200x/b2/68/83/b268838fe5a0c0ca504c2fc103843ae3.jpg" width="60" height="60" alt="iconX"></a></td>
+  </tr>
+</table>
 <br>
     <h3 class = "titulo"> 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 𝗼𝗳 𝘄𝗵𝗶𝗰𝗵 𝗜 𝗵𝗮𝘃𝗲 𝗯𝗮𝘀𝗶𝗰 𝗸𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲.
 <br>
