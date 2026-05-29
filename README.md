@@ -5,7 +5,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://media.tenor.com/nqPckordA4wAAAAi/purple-neon.gif" alt="Banner inicial github" height = "35" width = "700">
+  <img src="https://media.tenor.com/nqPckordA4wAAAAi/purple-neon.gif" alt="Banner inicial github" height = "25" width = "500">
 </div>
 <br>
 
