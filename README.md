@@ -5,7 +5,9 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://media.tenor.com/nqPckordA4wAAAAi/purple-neon.gif" alt="Banner inicial github" height = "25" width = "500">
+    
+![Bar](https://github.com/Vinicius-Luiz07/Vinicius-Luiz07/blob/main/loading-bar-animation.svg)
+
 </div>
 <br>
 
