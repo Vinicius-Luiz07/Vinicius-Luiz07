@@ -2,14 +2,14 @@ name: Generate Stats
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # atualiza a cada 6 horas
-  workflow_dispatch:        # permite rodar manualmente
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: GitHub Stats Card
         uses: lowlighter/metrics@latest
@@ -20,14 +20,6 @@ jobs:
           base: header, activity, community, repositories
           plugin_languages: yes
           plugin_languages_limit: 8
-          plugin_streak: yes
           config_timezone: America/Sao_Paulo
           filename: github-stats.svg
           config_output: svg
-          extras_css: |
-            :root {
-              --color-text: #AFA9EC;
-              --color-border: #6a0dad;
-            }
-            .header { background: #1a1a2e !important; }
-            h2 { color: #8b00ff !important; }
