@@ -1,92 +1,131 @@
-<svg width="640" height="180" viewBox="0 0 640 180" xmlns="http://www.w3.org/2000/svg">
-  <title>Now Playing - ON FYE</title>
-  <desc>Art Deco animated now playing card</desc>
+<svg width="800" height="190" viewBox="0 0 800 190" xmlns="http://www.w3.org/2000/svg">
+<title>Now Playing - ON FYE</title>
+<defs>
+  <linearGradient id="fadeL" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%"   stop-color="#0d1117" stop-opacity="1"/>
+    <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="fadeR" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%"   stop-color="#0d1117" stop-opacity="0"/>
+    <stop offset="100%" stop-color="#0d1117" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="pg1" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%"   stop-color="#534AB7"/>
+    <stop offset="100%" stop-color="#AFA9EC"/>
+  </linearGradient>
+  <linearGradient id="lnH" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%"   stop-color="#534AB7" stop-opacity="0"/>
+    <stop offset="30%"  stop-color="#534AB7" stop-opacity="1"/>
+    <stop offset="70%"  stop-color="#534AB7" stop-opacity="1"/>
+    <stop offset="100%" stop-color="#534AB7" stop-opacity="0"/>
+  </linearGradient>
+</defs>
 
-  <defs>
-    <linearGradient id="lineH" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#7F77DD" stop-opacity="0"/>
-      <stop offset="20%" stop-color="#7F77DD" stop-opacity="1"/>
-      <stop offset="80%" stop-color="#7F77DD" stop-opacity="1"/>
-      <stop offset="100%" stop-color="#7F77DD" stop-opacity="0"/>
-    </linearGradient>
-    <linearGradient id="progGrad" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#534AB7"/>
-      <stop offset="100%" stop-color="#AFA9EC"/>
-    </linearGradient>
-    <linearGradient id="trackGrad" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#26215C"/>
-      <stop offset="100%" stop-color="#1a1740"/>
-    </linearGradient>
-  </defs>
+<rect x="0" y="0" width="800" height="190" fill="#0d0a15"/>
 
-  <rect width="640" height="180" fill="#100d1a"/>
+<text x="400" y="28" text-anchor="middle" font-family="Georgia,serif" font-size="7" fill="#7F77DD" letter-spacing="7">NOW  PLAYING</text>
+<line x1="60"  y1="24" x2="250" y2="24" stroke="#3C3489" stroke-width="0.5"/>
+<line x1="550" y1="24" x2="740" y2="24" stroke="#3C3489" stroke-width="0.5"/>
 
-  <rect x="0" y="0" width="640" height="1" fill="url(#lineH)"/>
-  <rect x="0" y="179" width="640" height="1" fill="url(#lineH)"/>
+<text x="400" y="68" text-anchor="middle" font-family="Georgia,serif" font-size="22" font-weight="bold" fill="#d8cfff" letter-spacing="10">
+  ON FYE
+  <animate attributeName="opacity" values="0.75;1;0.75" dur="3s" repeatCount="indefinite"/>
+</text>
 
-  <rect x="0" y="0" width="2" height="180" fill="#534AB7"/>
-  <rect x="638" y="0" width="2" height="180" fill="#534AB7"/>
+<rect x="60" y="82" width="680" height="2" rx="1" fill="#1a1635"/>
+<rect x="60" y="82" width="204" height="2" rx="1" fill="url(#pg1)">
+  <animate attributeName="width" from="370" to="370" dur="65s" fill="freeze"/>
+</rect>
+<circle cx="264" cy="83" r="4" fill="#ffffff">
+  <animate attributeName="cx" from="430" to="430" dur="65s" fill="freeze"/>
+</circle>
 
-  <rect x="0" y="0" width="12" height="2" fill="#AFA9EC"/>
-  <rect x="0" y="0" width="2" height="12" fill="#AFA9EC"/>
-  <rect x="628" y="0" width="12" height="2" fill="#AFA9EC"/>
-  <rect x="638" y="0" width="2" height="12" fill="#AFA9EC"/>
-  <rect x="0" y="168" width="2" height="12" fill="#AFA9EC"/>
-  <rect x="0" y="178" width="12" height="2" fill="#AFA9EC"/>
-  <rect x="638" y="168" width="2" height="12" fill="#AFA9EC"/>
-  <rect x="628" y="178" width="12" height="2" fill="#AFA9EC"/>
+<text x="60"  y="100" font-family="Georgia,serif" font-size="10" fill="#ffffff">1:02</text>
+<text x="740" y="100" text-anchor="end" font-family="Georgia,serif" font-size="10" fill="#ffffff">2:07</text>
+<text x="355" y="100" text-anchor="middle" font-family="Georgia,serif" font-size="11" fill="#7F77DD">&#9668;&#9668;</text>
+<text x="400" y="101" text-anchor="middle" font-family="Georgia,serif" font-size="13" fill="#d8cfff">&#9646;&#9646;</text>
+<text x="445" y="100" text-anchor="middle" font-family="Georgia,serif" font-size="11" fill="#7F77DD">&#9658;&#9658;</text>
 
-  <text x="320" y="32" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#7F77DD" letter-spacing="6">NOW PLAYING</text>
-  <line x1="40" y1="27" x2="210" y2="27" stroke="#534AB7" stroke-width="0.5"/>
-  <line x1="430" y1="27" x2="600" y2="27" stroke="#534AB7" stroke-width="0.5"/>
+<g transform="translate(60,112)">
+  <rect x="0"   y="8"  width="5" height="8"  fill="#26215C"><animate attributeName="height" values="8;16;8"   dur="0.45s" begin="0s"     repeatCount="indefinite"/><animate attributeName="y" values="8;0;8"    dur="0.45s" begin="0s"     repeatCount="indefinite"/></rect>
+  <rect x="9"   y="4"  width="5" height="12" fill="#26215C"><animate attributeName="height" values="12;6;12"  dur="0.45s" begin="0.04s"  repeatCount="indefinite"/><animate attributeName="y" values="4;10;4"   dur="0.45s" begin="0.04s"  repeatCount="indefinite"/></rect>
+  <rect x="18"  y="0"  width="5" height="16" fill="#3C3489"><animate attributeName="height" values="16;8;16"  dur="0.45s" begin="0.08s"  repeatCount="indefinite"/><animate attributeName="y" values="0;8;0"    dur="0.45s" begin="0.08s"  repeatCount="indefinite"/></rect>
+  <rect x="27"  y="6"  width="5" height="10" fill="#534AB7"><animate attributeName="height" values="10;18;10" dur="0.45s" begin="0.12s"  repeatCount="indefinite"/><animate attributeName="y" values="6;0;6"    dur="0.45s" begin="0.12s"  repeatCount="indefinite"/></rect>
+  <rect x="36"  y="2"  width="5" height="14" fill="#534AB7"><animate attributeName="height" values="14;6;14"  dur="0.45s" begin="0.16s"  repeatCount="indefinite"/><animate attributeName="y" values="2;10;2"   dur="0.45s" begin="0.16s"  repeatCount="indefinite"/></rect>
+  <rect x="45"  y="4"  width="5" height="12" fill="#7F77DD"><animate attributeName="height" values="12;18;12" dur="0.45s" begin="0.2s"   repeatCount="indefinite"/><animate attributeName="y" values="4;0;4"    dur="0.45s" begin="0.2s"   repeatCount="indefinite"/></rect>
+  <rect x="54"  y="0"  width="5" height="16" fill="#7F77DD"><animate attributeName="height" values="16;8;16"  dur="0.45s" begin="0.24s"  repeatCount="indefinite"/><animate attributeName="y" values="0;8;0"    dur="0.45s" begin="0.24s"  repeatCount="indefinite"/></rect>
+  <rect x="63"  y="6"  width="5" height="10" fill="#AFA9EC"><animate attributeName="height" values="10;18;10" dur="0.45s" begin="0.28s"  repeatCount="indefinite"/><animate attributeName="y" values="6;0;6"    dur="0.45s" begin="0.28s"  repeatCount="indefinite"/></rect>
+  <rect x="72"  y="2"  width="5" height="14" fill="#AFA9EC"><animate attributeName="height" values="14;6;14"  dur="0.45s" begin="0.32s"  repeatCount="indefinite"/><animate attributeName="y" values="2;10;2"   dur="0.45s" begin="0.32s"  repeatCount="indefinite"/></rect>
+  <rect x="81"  y="8"  width="5" height="8"  fill="#7F77DD"><animate attributeName="height" values="8;18;8"   dur="0.45s" begin="0.36s"  repeatCount="indefinite"/><animate attributeName="y" values="8;0;8"    dur="0.45s" begin="0.36s"  repeatCount="indefinite"/></rect>
+  <rect x="90"  y="4"  width="5" height="12" fill="#534AB7"><animate attributeName="height" values="12;6;12"  dur="0.45s" begin="0.4s"   repeatCount="indefinite"/><animate attributeName="y" values="4;10;4"   dur="0.45s" begin="0.4s"   repeatCount="indefinite"/></rect>
+  <rect x="99"  y="0"  width="5" height="16" fill="#AFA9EC"><animate attributeName="height" values="16;10;16" dur="0.45s" begin="0.44s"  repeatCount="indefinite"/><animate attributeName="y" values="0;6;0"    dur="0.45s" begin="0.44s"  repeatCount="indefinite"/></rect>
+  <rect x="108" y="6"  width="5" height="10" fill="#534AB7"><animate attributeName="height" values="10;16;10" dur="0.45s" begin="0.14s"  repeatCount="indefinite"/><animate attributeName="y" values="6;0;6"    dur="0.45s" begin="0.14s"  repeatCount="indefinite"/></rect>
+  <rect x="117" y="2"  width="5" height="14" fill="#7F77DD"><animate attributeName="height" values="14;8;14"  dur="0.45s" begin="0.06s"  repeatCount="indefinite"/><animate attributeName="y" values="2;8;2"    dur="0.45s" begin="0.06s"  repeatCount="indefinite"/></rect>
+  <rect x="126" y="8"  width="5" height="8"  fill="#3C3489"><animate attributeName="height" values="8;16;8"   dur="0.45s" begin="0.18s"  repeatCount="indefinite"/><animate attributeName="y" values="8;0;8"    dur="0.45s" begin="0.18s"  repeatCount="indefinite"/></rect>
+  <rect x="135" y="4"  width="5" height="12" fill="#534AB7"><animate attributeName="height" values="12;6;12"  dur="0.45s" begin="0.26s"  repeatCount="indefinite"/><animate attributeName="y" values="4;10;4"   dur="0.45s" begin="0.26s"  repeatCount="indefinite"/></rect>
+  <rect x="144" y="0"  width="5" height="16" fill="#7F77DD"><animate attributeName="height" values="16;6;16"  dur="0.45s" begin="0.38s"  repeatCount="indefinite"/><animate attributeName="y" values="0;10;0"   dur="0.45s" begin="0.38s"  repeatCount="indefinite"/></rect>
+  <rect x="153" y="6"  width="5" height="10" fill="#AFA9EC"><animate attributeName="height" values="10;18;10" dur="0.45s" begin="0.42s"  repeatCount="indefinite"/><animate attributeName="y" values="6;0;6"    dur="0.45s" begin="0.42s"  repeatCount="indefinite"/></rect>
+  <rect x="162" y="2"  width="5" height="14" fill="#534AB7"><animate attributeName="height" values="14;8;14"  dur="0.45s" begin="0.1s"   repeatCount="indefinite"/><animate attributeName="y" values="2;8;2"    dur="0.45s" begin="0.1s"   repeatCount="indefinite"/></rect>
+  <rect x="171" y="8"  width="5" height="8"  fill="#7F77DD"><animate attributeName="height" values="8;16;8"   dur="0.45s" begin="0.34s"  repeatCount="indefinite"/><animate attributeName="y" values="8;0;8"    dur="0.45s" begin="0.34s"  repeatCount="indefinite"/></rect>
+  <rect x="180" y="4"  width="5" height="12" fill="#AFA9EC"><animate attributeName="height" values="12;18;12" dur="0.45s" begin="0.22s"  repeatCount="indefinite"/><animate attributeName="y" values="4;0;4"    dur="0.45s" begin="0.22s"  repeatCount="indefinite"/></rect>
+  <rect x="189" y="0"  width="5" height="16" fill="#534AB7"><animate attributeName="height" values="16;8;16"  dur="0.45s" begin="0.02s"  repeatCount="indefinite"/><animate attributeName="y" values="0;8;0"    dur="0.45s" begin="0.02s"  repeatCount="indefinite"/></rect>
+  <rect x="198" y="6"  width="5" height="10" fill="#7F77DD"><animate attributeName="height" values="10;16;10" dur="0.45s" begin="0.3s"   repeatCount="indefinite"/><animate attributeName="y" values="6;0;6"    dur="0.45s" begin="0.3s"   repeatCount="indefinite"/></rect>
+  <rect x="207" y="2"  width="5" height="14" fill="#3C3489"><animate attributeName="height" values="14;6;14"  dur="0.45s" begin="0.46s"  repeatCount="indefinite"/><animate attributeName="y" values="2;10;2"   dur="0.45s" begin="0.46s"  repeatCount="indefinite"/></rect>
+  <rect x="216" y="8"  width="5" height="8"  fill="#534AB7"><animate attributeName="height" values="8;14;8"   dur="0.45s" begin="0.16s"  repeatCount="indefinite"/><animate attributeName="y" values="8;2;8"    dur="0.45s" begin="0.16s"  repeatCount="indefinite"/></rect>
+  <rect x="225" y="4"  width="5" height="12" fill="#AFA9EC"><animate attributeName="height" values="12;6;12"  dur="0.45s" begin="0.08s"  repeatCount="indefinite"/><animate attributeName="y" values="4;10;4"   dur="0.45s" begin="0.08s"  repeatCount="indefinite"/></rect>
+  <rect x="234" y="0"  width="5" height="16" fill="#7F77DD"><animate attributeName="height" values="16;10;16" dur="0.45s" begin="0.48s"  repeatCount="indefinite"/><animate attributeName="y" values="0;6;0"    dur="0.45s" begin="0.48s"  repeatCount="indefinite"/></rect>
+  <rect x="243" y="6"  width="5" height="10" fill="#534AB7"><animate attributeName="height" values="10;18;10" dur="0.45s" begin="0.24s"  repeatCount="indefinite"/><animate attributeName="y" values="6;0;6"    dur="0.45s" begin="0.24s"  repeatCount="indefinite"/></rect>
+  <rect x="252" y="2"  width="5" height="14" fill="#AFA9EC"><animate attributeName="height" values="14;6;14"  dur="0.45s" begin="0.36s"  repeatCount="indefinite"/><animate attributeName="y" values="2;10;2"   dur="0.45s" begin="0.36s"  repeatCount="indefinite"/></rect>
+  <rect x="261" y="8"  width="5" height="8"  fill="#7F77DD"><animate attributeName="height" values="8;18;8"   dur="0.45s" begin="0.12s"  repeatCount="indefinite"/><animate attributeName="y" values="8;0;8"    dur="0.45s" begin="0.12s"  repeatCount="indefinite"/></rect>
+  <rect x="270" y="0"  width="5" height="16" fill="#534AB7"><animate attributeName="height" values="16;8;16"  dur="0.45s" begin="0.44s"  repeatCount="indefinite"/><animate attributeName="y" values="0;8;0"    dur="0.45s" begin="0.44s"  repeatCount="indefinite"/></rect>
+  <rect x="279" y="4"  width="5" height="12" fill="#3C3489"><animate attributeName="height" values="12;20;12" dur="0.45s" begin="0.2s"   repeatCount="indefinite"/><animate attributeName="y" values="4;0;4"    dur="0.45s" begin="0.2s"   repeatCount="indefinite"/></rect>
+  <rect x="288" y="6"  width="5" height="10" fill="#7F77DD"><animate attributeName="height" values="10;16;10" dur="0.45s" begin="0.04s"  repeatCount="indefinite"/><animate attributeName="y" values="6;0;6"    dur="0.45s" begin="0.04s"  repeatCount="indefinite"/></rect>
+  <rect x="297" y="2"  width="5" height="14" fill="#AFA9EC"><animate attributeName="height" values="14;8;14"  dur="0.45s" begin="0.4s"   repeatCount="indefinite"/><animate attributeName="y" values="2;8;2"    dur="0.45s" begin="0.4s"   repeatCount="indefinite"/></rect>
+  <rect x="306" y="8"  width="5" height="8"  fill="#534AB7"><animate attributeName="height" values="8;14;8"   dur="0.45s" begin="0.28s"  repeatCount="indefinite"/><animate attributeName="y" values="8;2;8"    dur="0.45s" begin="0.28s"  repeatCount="indefinite"/></rect>
+  <rect x="315" y="4"  width="5" height="12" fill="#7F77DD"><animate attributeName="height" values="12;6;12"  dur="0.45s" begin="0.42s"  repeatCount="indefinite"/><animate attributeName="y" values="4;10;4"   dur="0.45s" begin="0.42s"  repeatCount="indefinite"/></rect>
+  <rect x="324" y="0"  width="5" height="16" fill="#AFA9EC"><animate attributeName="height" values="16;8;16"  dur="0.45s" begin="0.14s"  repeatCount="indefinite"/><animate attributeName="y" values="0;8;0"    dur="0.45s" begin="0.14s"  repeatCount="indefinite"/></rect>
+  <rect x="333" y="6"  width="5" height="10" fill="#534AB7"><animate attributeName="height" values="10;18;10" dur="0.45s" begin="0.32s"  repeatCount="indefinite"/><animate attributeName="y" values="6;0;6"    dur="0.45s" begin="0.32s"  repeatCount="indefinite"/></rect>
+  <rect x="342" y="2"  width="5" height="14" fill="#7F77DD"><animate attributeName="height" values="14;6;14"  dur="0.45s" begin="0.06s"  repeatCount="indefinite"/><animate attributeName="y" values="2;10;2"   dur="0.45s" begin="0.06s"  repeatCount="indefinite"/></rect>
+  <rect x="351" y="8"  width="5" height="8"  fill="#3C3489"><animate attributeName="height" values="8;16;8"   dur="0.45s" begin="0.18s"  repeatCount="indefinite"/><animate attributeName="y" values="8;0;8"    dur="0.45s" begin="0.18s"  repeatCount="indefinite"/></rect>
+  <rect x="360" y="4"  width="5" height="12" fill="#534AB7"><animate attributeName="height" values="12;18;12" dur="0.45s" begin="0.26s"  repeatCount="indefinite"/><animate attributeName="y" values="4;0;4"    dur="0.45s" begin="0.26s"  repeatCount="indefinite"/></rect>
+  <rect x="369" y="0"  width="5" height="16" fill="#7F77DD"><animate attributeName="height" values="16;6;16"  dur="0.45s" begin="0.38s"  repeatCount="indefinite"/><animate attributeName="y" values="0;10;0"   dur="0.45s" begin="0.38s"  repeatCount="indefinite"/></rect>
+  <rect x="378" y="6"  width="5" height="10" fill="#AFA9EC"><animate attributeName="height" values="10;18;10" dur="0.45s" begin="0.1s"   repeatCount="indefinite"/><animate attributeName="y" values="6;0;6"    dur="0.45s" begin="0.1s"   repeatCount="indefinite"/></rect>
+  <rect x="387" y="2"  width="5" height="14" fill="#534AB7"><animate attributeName="height" values="14;8;14"  dur="0.45s" begin="0.22s"  repeatCount="indefinite"/><animate attributeName="y" values="2;8;2"    dur="0.45s" begin="0.22s"  repeatCount="indefinite"/></rect>
+  <rect x="396" y="8"  width="5" height="8"  fill="#7F77DD"><animate attributeName="height" values="8;14;8"   dur="0.45s" begin="0.34s"  repeatCount="indefinite"/><animate attributeName="y" values="8;2;8"    dur="0.45s" begin="0.34s"  repeatCount="indefinite"/></rect>
+  <rect x="405" y="4"  width="5" height="12" fill="#AFA9EC"><animate attributeName="height" values="12;6;12"  dur="0.45s" begin="0.02s"  repeatCount="indefinite"/><animate attributeName="y" values="4;10;4"   dur="0.45s" begin="0.02s"  repeatCount="indefinite"/></rect>
+  <rect x="414" y="0"  width="5" height="16" fill="#534AB7"><animate attributeName="height" values="16;10;16" dur="0.45s" begin="0.48s"  repeatCount="indefinite"/><animate attributeName="y" values="0;6;0"    dur="0.45s" begin="0.48s"  repeatCount="indefinite"/></rect>
+  <rect x="423" y="6"  width="5" height="10" fill="#7F77DD"><animate attributeName="height" values="10;16;10" dur="0.45s" begin="0.16s"  repeatCount="indefinite"/><animate attributeName="y" values="6;0;6"    dur="0.45s" begin="0.16s"  repeatCount="indefinite"/></rect>
+  <rect x="432" y="2"  width="5" height="14" fill="#3C3489"><animate attributeName="height" values="14;6;14"  dur="0.45s" begin="0.44s"  repeatCount="indefinite"/><animate attributeName="y" values="2;10;2"   dur="0.45s" begin="0.44s"  repeatCount="indefinite"/></rect>
+  <rect x="441" y="8"  width="5" height="8"  fill="#AFA9EC"><animate attributeName="height" values="8;18;8"   dur="0.45s" begin="0.08s"  repeatCount="indefinite"/><animate attributeName="y" values="8;0;8"    dur="0.45s" begin="0.08s"  repeatCount="indefinite"/></rect>
+  <rect x="450" y="4"  width="5" height="12" fill="#534AB7"><animate attributeName="height" values="12;18;12" dur="0.45s" begin="0.3s"   repeatCount="indefinite"/><animate attributeName="y" values="4;0;4"    dur="0.45s" begin="0.3s"   repeatCount="indefinite"/></rect>
+  <rect x="459" y="0"  width="5" height="16" fill="#7F77DD"><animate attributeName="height" values="16;8;16"  dur="0.45s" begin="0.42s"  repeatCount="indefinite"/><animate attributeName="y" values="0;8;0"    dur="0.45s" begin="0.42s"  repeatCount="indefinite"/></rect>
+  <rect x="468" y="6"  width="5" height="10" fill="#AFA9EC"><animate attributeName="height" values="10;16;10" dur="0.45s" begin="0.24s"  repeatCount="indefinite"/><animate attributeName="y" values="6;0;6"    dur="0.45s" begin="0.24s"  repeatCount="indefinite"/></rect>
+  <rect x="477" y="2"  width="5" height="14" fill="#534AB7"><animate attributeName="height" values="14;6;14"  dur="0.45s" begin="0.36s"  repeatCount="indefinite"/><animate attributeName="y" values="2;10;2"   dur="0.45s" begin="0.36s"  repeatCount="indefinite"/></rect>
+  <rect x="486" y="8"  width="5" height="8"  fill="#7F77DD"><animate attributeName="height" values="8;16;8"   dur="0.45s" begin="0.12s"  repeatCount="indefinite"/><animate attributeName="y" values="8;0;8"    dur="0.45s" begin="0.12s"  repeatCount="indefinite"/></rect>
+  <rect x="495" y="4"  width="5" height="12" fill="#3C3489"><animate attributeName="height" values="12;20;12" dur="0.45s" begin="0.46s"  repeatCount="indefinite"/><animate attributeName="y" values="4;0;4"    dur="0.45s" begin="0.46s"  repeatCount="indefinite"/></rect>
+  <rect x="504" y="0"  width="5" height="16" fill="#534AB7"><animate attributeName="height" values="16;8;16"  dur="0.45s" begin="0.28s"  repeatCount="indefinite"/><animate attributeName="y" values="0;8;0"    dur="0.45s" begin="0.28s"  repeatCount="indefinite"/></rect>
+  <rect x="513" y="6"  width="5" height="10" fill="#AFA9EC"><animate attributeName="height" values="10;18;10" dur="0.45s" begin="0.04s"  repeatCount="indefinite"/><animate attributeName="y" values="6;0;6"    dur="0.45s" begin="0.04s"  repeatCount="indefinite"/></rect>
+  <rect x="522" y="2"  width="5" height="14" fill="#7F77DD"><animate attributeName="height" values="14;8;14"  dur="0.45s" begin="0.4s"   repeatCount="indefinite"/><animate attributeName="y" values="2;8;2"    dur="0.45s" begin="0.4s"   repeatCount="indefinite"/></rect>
+  <rect x="531" y="8"  width="5" height="8"  fill="#534AB7"><animate attributeName="height" values="8;14;8"   dur="0.45s" begin="0.18s"  repeatCount="indefinite"/><animate attributeName="y" values="8;2;8"    dur="0.45s" begin="0.18s"  repeatCount="indefinite"/></rect>
+  <rect x="540" y="4"  width="5" height="12" fill="#AFA9EC"><animate attributeName="height" values="12;6;12"  dur="0.45s" begin="0.32s"  repeatCount="indefinite"/><animate attributeName="y" values="4;10;4"   dur="0.45s" begin="0.32s"  repeatCount="indefinite"/></rect>
+  <rect x="549" y="0"  width="5" height="16" fill="#7F77DD"><animate attributeName="height" values="16;10;16" dur="0.45s" begin="0.14s"  repeatCount="indefinite"/><animate attributeName="y" values="0;6;0"    dur="0.45s" begin="0.14s"  repeatCount="indefinite"/></rect>
+  <rect x="558" y="6"  width="5" height="10" fill="#534AB7"><animate attributeName="height" values="10;18;10" dur="0.45s" begin="0.38s"  repeatCount="indefinite"/><animate attributeName="y" values="6;0;6"    dur="0.45s" begin="0.38s"  repeatCount="indefinite"/></rect>
+  <rect x="567" y="2"  width="5" height="14" fill="#3C3489"><animate attributeName="height" values="14;6;14"  dur="0.45s" begin="0.06s"  repeatCount="indefinite"/><animate attributeName="y" values="2;10;2"   dur="0.45s" begin="0.06s"  repeatCount="indefinite"/></rect>
+  <rect x="576" y="8"  width="5" height="8"  fill="#7F77DD"><animate attributeName="height" values="8;16;8"   dur="0.45s" begin="0.26s"  repeatCount="indefinite"/><animate attributeName="y" values="8;0;8"    dur="0.45s" begin="0.26s"  repeatCount="indefinite"/></rect>
+  <rect x="585" y="4"  width="5" height="12" fill="#AFA9EC"><animate attributeName="height" values="12;18;12" dur="0.45s" begin="0.48s"  repeatCount="indefinite"/><animate attributeName="y" values="4;0;4"    dur="0.45s" begin="0.48s"  repeatCount="indefinite"/></rect>
+  <rect x="594" y="0"  width="5" height="16" fill="#534AB7"><animate attributeName="height" values="16;8;16"  dur="0.45s" begin="0.2s"   repeatCount="indefinite"/><animate attributeName="y" values="0;8;0"    dur="0.45s" begin="0.2s"   repeatCount="indefinite"/></rect>
+  <rect x="603" y="6"  width="5" height="10" fill="#7F77DD"><animate attributeName="height" values="10;16;10" dur="0.45s" begin="0.34s"  repeatCount="indefinite"/><animate attributeName="y" values="6;0;6"    dur="0.45s" begin="0.34s"  repeatCount="indefinite"/></rect>
+  <rect x="612" y="2"  width="5" height="14" fill="#AFA9EC"><animate attributeName="height" values="14;8;14"  dur="0.45s" begin="0.42s"  repeatCount="indefinite"/><animate attributeName="y" values="2;8;2"    dur="0.45s" begin="0.42s"  repeatCount="indefinite"/></rect>
+  <rect x="621" y="8"  width="5" height="8"  fill="#534AB7"><animate attributeName="height" values="8;14;8"   dur="0.45s" begin="0.1s"   repeatCount="indefinite"/><animate attributeName="y" values="8;2;8"    dur="0.45s" begin="0.1s"   repeatCount="indefinite"/></rect>
+  <rect x="630" y="4"  width="5" height="12" fill="#7F77DD"><animate attributeName="height" values="12;6;12"  dur="0.45s" begin="0.22s"  repeatCount="indefinite"/><animate attributeName="y" values="4;10;4"   dur="0.45s" begin="0.22s"  repeatCount="indefinite"/></rect>
+  <rect x="639" y="0"  width="5" height="16" fill="#3C3489"><animate attributeName="height" values="16;8;16"  dur="0.45s" begin="0.44s"  repeatCount="indefinite"/><animate attributeName="y" values="0;8;0"    dur="0.45s" begin="0.44s"  repeatCount="indefinite"/></rect>
+  <rect x="648" y="6"  width="5" height="10" fill="#534AB7"><animate attributeName="height" values="10;18;10" dur="0.45s" begin="0.16s"  repeatCount="indefinite"/><animate attributeName="y" values="6;0;6"    dur="0.45s" begin="0.16s"  repeatCount="indefinite"/></rect>
+  <rect x="657" y="2"  width="5" height="14" fill="#AFA9EC"><animate attributeName="height" values="14;6;14"  dur="0.45s" begin="0.36s"  repeatCount="indefinite"/><animate attributeName="y" values="2;10;2"   dur="0.45s" begin="0.36s"  repeatCount="indefinite"/></rect>
+  <rect x="666" y="8"  width="5" height="8"  fill="#7F77DD"><animate attributeName="height" values="8;18;8"   dur="0.45s" begin="0.08s"  repeatCount="indefinite"/><animate attributeName="y" values="8;0;8"    dur="0.45s" begin="0.08s"  repeatCount="indefinite"/></rect>
+  <rect x="675" y="4"  width="5" height="12" fill="#534AB7"><animate attributeName="height" values="12;18;12" dur="0.45s" begin="0.46s"  repeatCount="indefinite"/><animate attributeName="y" values="4;0;4"    dur="0.45s" begin="0.46s"  repeatCount="indefinite"/></rect>
+</g>
 
-  <text x="320" y="68" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#e8e0ff" letter-spacing="8">
-    ON FYE
-    <animate attributeName="opacity" values="0.8;1;0.8" dur="3s" repeatCount="indefinite"/>
-  </text>
+<rect x="0"   y="0" width="140" height="190" fill="url(#fadeL)"/>
+<rect x="660" y="0" width="140" height="190" fill="url(#fadeR)"/>
 
-  <rect x="40" y="90" width="560" height="4" rx="2" fill="url(#trackGrad)"/>
-  <rect x="40" y="90" width="168" height="4" rx="2" fill="url(#progGrad)">
-    <animate attributeName="width" from="168" to="560" dur="281s" fill="freeze" repeatCount="1"/>
-  </rect>
-  <circle cx="208" cy="92" r="6" fill="#e8e0ff">
-    <animate attributeName="cx" from="208" to="600" dur="281s" fill="freeze" repeatCount="1"/>
-  </circle>
-
-  <text x="40" y="116" font-family="Georgia, serif" font-size="11" fill="#ffffff" letter-spacing="1">1:21</text>
-  <text x="600" y="116" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#ffffff" letter-spacing="1">4:41</text>
-
-  <text x="250" y="116" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#7F77DD">◄◄</text>
-  <text x="320" y="117" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#e8e0ff">▐▐</text>
-  <text x="390" y="116" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#7F77DD">►►</text>
-
-  <g transform="translate(222, 135)">
-    <rect x="0"   y="10" width="4" height="6"  fill="#534AB7"><animate attributeName="height" values="6;14;6"  dur="0.4s" begin="0s"    repeatCount="indefinite"/><animate attributeName="y"      values="10;2;10"  dur="0.4s" begin="0s"    repeatCount="indefinite"/></rect>
-    <rect x="7"   y="4"  width="4" height="12" fill="#534AB7"><animate attributeName="height" values="12;6;12" dur="0.4s" begin="0.05s" repeatCount="indefinite"/><animate attributeName="y"      values="4;10;4"   dur="0.4s" begin="0.05s" repeatCount="indefinite"/></rect>
-    <rect x="14"  y="2"  width="4" height="14" fill="#7F77DD"><animate attributeName="height" values="14;8;14" dur="0.4s" begin="0.1s"  repeatCount="indefinite"/><animate attributeName="y"      values="2;8;2"    dur="0.4s" begin="0.1s"  repeatCount="indefinite"/></rect>
-    <rect x="21"  y="6"  width="4" height="10" fill="#534AB7"><animate attributeName="height" values="10;16;10" dur="0.4s" begin="0.15s" repeatCount="indefinite"/><animate attributeName="y"      values="6;0;6"    dur="0.4s" begin="0.15s" repeatCount="indefinite"/></rect>
-    <rect x="28"  y="0"  width="4" height="16" fill="#7F77DD"><animate attributeName="height" values="16;6;16" dur="0.4s" begin="0.2s"  repeatCount="indefinite"/><animate attributeName="y"      values="0;10;0"   dur="0.4s" begin="0.2s"  repeatCount="indefinite"/></rect>
-    <rect x="35"  y="4"  width="4" height="12" fill="#AFA9EC"><animate attributeName="height" values="12;18;12" dur="0.4s" begin="0.08s" repeatCount="indefinite"/><animate attributeName="y"      values="4;0;4"    dur="0.4s" begin="0.08s" repeatCount="indefinite"/></rect>
-    <rect x="42"  y="8"  width="4" height="8"  fill="#534AB7"><animate attributeName="height" values="8;14;8"  dur="0.4s" begin="0.25s" repeatCount="indefinite"/><animate attributeName="y"      values="8;2;8"    dur="0.4s" begin="0.25s" repeatCount="indefinite"/></rect>
-    <rect x="49"  y="2"  width="4" height="14" fill="#7F77DD"><animate attributeName="height" values="14;8;14" dur="0.4s" begin="0.18s" repeatCount="indefinite"/><animate attributeName="y"      values="2;8;2"    dur="0.4s" begin="0.18s" repeatCount="indefinite"/></rect>
-    <rect x="56"  y="6"  width="4" height="10" fill="#534AB7"><animate attributeName="height" values="10;4;10" dur="0.4s" begin="0.3s"  repeatCount="indefinite"/><animate attributeName="y"      values="6;12;6"   dur="0.4s" begin="0.3s"  repeatCount="indefinite"/></rect>
-    <rect x="63"  y="4"  width="4" height="12" fill="#AFA9EC"><animate attributeName="height" values="12;18;12" dur="0.4s" begin="0.12s" repeatCount="indefinite"/><animate attributeName="y"      values="4;0;4"    dur="0.4s" begin="0.12s" repeatCount="indefinite"/></rect>
-    <rect x="70"  y="0"  width="4" height="16" fill="#7F77DD"><animate attributeName="height" values="16;10;16" dur="0.4s" begin="0.07s" repeatCount="indefinite"/><animate attributeName="y"      values="0;6;0"    dur="0.4s" begin="0.07s" repeatCount="indefinite"/></rect>
-    <rect x="77"  y="8"  width="4" height="8"  fill="#534AB7"><animate attributeName="height" values="8;14;8"  dur="0.4s" begin="0.22s" repeatCount="indefinite"/><animate attributeName="y"      values="8;2;8"    dur="0.4s" begin="0.22s" repeatCount="indefinite"/></rect>
-    <rect x="84"  y="4"  width="4" height="12" fill="#7F77DD"><animate attributeName="height" values="12;6;12" dur="0.4s" begin="0.04s" repeatCount="indefinite"/><animate attributeName="y"      values="4;10;4"   dur="0.4s" begin="0.04s" repeatCount="indefinite"/></rect>
-    <rect x="91"  y="2"  width="4" height="14" fill="#AFA9EC"><animate attributeName="height" values="14;8;14" dur="0.4s" begin="0.28s" repeatCount="indefinite"/><animate attributeName="y"      values="2;8;2"    dur="0.4s" begin="0.28s" repeatCount="indefinite"/></rect>
-    <rect x="98"  y="6"  width="4" height="10" fill="#534AB7"><animate attributeName="height" values="10;16;10" dur="0.4s" begin="0.14s" repeatCount="indefinite"/><animate attributeName="y"      values="6;0;6"    dur="0.4s" begin="0.14s" repeatCount="indefinite"/></rect>
-    <rect x="105" y="4"  width="4" height="12" fill="#7F77DD"><animate attributeName="height" values="12;6;12" dur="0.4s" begin="0.35s" repeatCount="indefinite"/><animate attributeName="y"      values="4;10;4"   dur="0.4s" begin="0.35s" repeatCount="indefinite"/></rect>
-    <rect x="112" y="0"  width="4" height="16" fill="#534AB7"><animate attributeName="height" values="16;8;16" dur="0.4s" begin="0.16s" repeatCount="indefinite"/><animate attributeName="y"      values="0;8;0"    dur="0.4s" begin="0.16s" repeatCount="indefinite"/></rect>
-    <rect x="119" y="8"  width="4" height="8"  fill="#AFA9EC"><animate attributeName="height" values="8;16;8"  dur="0.4s" begin="0.24s" repeatCount="indefinite"/><animate attributeName="y"      values="8;0;8"    dur="0.4s" begin="0.24s" repeatCount="indefinite"/></rect>
-    <rect x="126" y="4"  width="4" height="12" fill="#7F77DD"><animate attributeName="height" values="12;6;12" dur="0.4s" begin="0.09s" repeatCount="indefinite"/><animate attributeName="y"      values="4;10;4"   dur="0.4s" begin="0.09s" repeatCount="indefinite"/></rect>
-    <rect x="133" y="2"  width="4" height="14" fill="#534AB7"><animate attributeName="height" values="14;6;14" dur="0.4s" begin="0.32s" repeatCount="indefinite"/><animate attributeName="y"      values="2;10;2"   dur="0.4s" begin="0.32s" repeatCount="indefinite"/></rect>
-    <rect x="140" y="6"  width="4" height="10" fill="#7F77DD"><animate attributeName="height" values="10;16;10" dur="0.4s" begin="0.19s" repeatCount="indefinite"/><animate attributeName="y"      values="6;0;6"    dur="0.4s" begin="0.19s" repeatCount="indefinite"/></rect>
-    <rect x="147" y="0"  width="4" height="16" fill="#AFA9EC"><animate attributeName="height" values="16;8;16" dur="0.4s" begin="0.06s" repeatCount="indefinite"/><animate attributeName="y"      values="0;8;0"    dur="0.4s" begin="0.06s" repeatCount="indefinite"/></rect>
-    <rect x="154" y="8"  width="4" height="8"  fill="#534AB7"><animate attributeName="height" values="8;14;8"  dur="0.4s" begin="0.27s" repeatCount="indefinite"/><animate attributeName="y"      values="8;2;8"    dur="0.4s" begin="0.27s" repeatCount="indefinite"/></rect>
-    <rect x="161" y="4"  width="4" height="12" fill="#7F77DD"><animate attributeName="height" values="12;18;12" dur="0.4s" begin="0.13s" repeatCount="indefinite"/><animate attributeName="y"      values="4;0;4"    dur="0.4s" begin="0.13s" repeatCount="indefinite"/></rect>
-    <rect x="168" y="2"  width="4" height="14" fill="#534AB7"><animate attributeName="height" values="14;6;14" dur="0.4s" begin="0.38s" repeatCount="indefinite"/><animate attributeName="y"      values="2;10;2"   dur="0.4s" begin="0.38s" repeatCount="indefinite"/></rect>
-  </g>
-
-  <text x="530" y="160" font-family="Georgia, serif" font-size="9" fill="#3C3489" letter-spacing="3">HD  ⚙  ❐  ⊏⊐</text>
 </svg>
