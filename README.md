@@ -9,7 +9,7 @@ My name is Vinicius, i'm 19 years old and i'm passionate about technology, progr
 </div>
 <div align="center">
     <div align = "center">
-    <h3 class = "subtitulo">Contact methods</h3>
+    <h3 class = "subtitulo">Contact methods:</h3>
 </div>
   <tr>
     <td><a href="https://www.instagram.com/vinni_lp07/"><img src="https://i.pinimg.com/736x/62/8c/31/628c312ab70e2a5de38b98ee1eea4647.jpg" width="60" height="60" alt="instagram logo" style="border-radius: 8px;"></a></td>&nbsp;&nbsp;
