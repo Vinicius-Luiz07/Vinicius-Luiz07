@@ -4,7 +4,7 @@
 <div align="center">
  <div align = "center">
     <h4 class = "titulo">  
-My name is Vinicius, i'm 19 years old and i'm passionate about technology, programming and cybersecurity. I enjoy studying algorithm development, particularly with Java, as well as exploring areas such as pentesting, computer maintenance, vulnerability analysis, and network infrastructure. I am interested in building practical projects to develop discipline and experience, always striving to evolve technically and professionally
+My name is Vinicius, i'm 19 years old and i'm passionate about technology, programming and cybersecurity. I enjoy studying algorithm development, particularly with Java, as well as exploring areas such as pentesting, computer maintenance, vulnerability analysis, and network infrastructure. I am interested in building practical projects to develop discipline and experience, always striving to evolve technically and professionally.
   </div>   
 </div>
 <div align="center">
