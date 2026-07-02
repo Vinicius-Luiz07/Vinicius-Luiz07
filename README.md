@@ -51,7 +51,7 @@ My name is Vinicius, i'm 19 years old and i'm passionate about technology, progr
     <img src="https://img.shields.io/badge/Kali_Linux-30363d?style=for-the-badge&logo=kalilinux&logoColor=79c0ff" height="40" alt="Kali-Linux">
     <br>
     <br>
-    <p aling="center">Cibersecurity ools:</p>
+    <p aling="center">Cibersecurity Tools:</p>
     <img src="https://img.shields.io/badge/Nmap-30363d?style=for-the-badge&logo=nmap&logoColor=79c0ff" />
     <img src="https://img.shields.io/badge/Burp%20Suite-30363d?style=for-the-badge&logo=portswigger&logoColor=79c0ff" />
     <img src="https://img.shields.io/badge/Wireshark-30363d?style=for-the-badge&logo=wireshark&logoColor=79c0ff" />
