@@ -10,17 +10,11 @@ My name is Vinicius, i'm 19 years old and i'm passionate about technology, progr
 <div align="center">
     <div align = "center">
     <h3 class = "subtitulo">Contact methods:</h3>
-</div>
-  <tr>
-    <td><a href="https://www.instagram.com/vinni_lp07/"><img src="https://i.pinimg.com/736x/62/8c/31/628c312ab70e2a5de38b98ee1eea4647.jpg" width="60" height="60" alt="instagram logo" style="border-radius: 8px;"></a></td>&nbsp;&nbsp;
-    <td><a href="https://www.linkedin.com/in/vinicius-luiz-cyber/"><img src="https://i.pinimg.com/736x/19/40/ab/1940abcfbcbdbdb11b1b8fdbf2f01973.jpg" width="60" height="60" alt="linkedin logo" style="border-radius: 8px;"></a></td>&nbsp;&nbsp;
-    <td><a href="https://x.com/vinni_lp01"><img src="https://i.pinimg.com/1200x/b2/68/83/b268838fe5a0c0ca504c2fc103843ae3.jpg" width="60" height="60" alt="iconX" style="border-radius: 8px;"></a></td>
-  </tr>
-</div>
-<div align="center">
-    <img src="https://streak-stats.demolab.com?user=Vinicius-Luiz07&theme=transparent&hide_border=true&background=0d1117&ring=1f6feb&fire=f2cc60&currStreakLabel=f0f6fc&sideLabels=c9d1d9&dates=484f58&border-radius=8px">
-</div>
-<br>
+        <div>
+          <a href="https://vinicius-luiz07.github.io/StrawThree/" target="_blank">
+            <img src="https://img.shields.io/badge/Visite%20Meu%20Site-0077B5?style=for-the-badge&logo=vercel&logoColor=white&color=0A66C2" alt="Visite Meu Site">
+              </a>
+        </div>
 <div align="center">
     <h3 class = "titulo"> Stack and tools i use in studies and projects:
 <br>
