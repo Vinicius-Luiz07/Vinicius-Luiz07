@@ -12,7 +12,7 @@ My name is Vinicius, i'm 19 years old and i'm passionate about technology, progr
     <h3 class = "subtitulo">Contact methods:</h3>
         <div>
           <a href="https://vinicius-luiz07.github.io/StrawThree/" target="_blank">
-            <img src="https://img.shields.io/badge/Visite%20Meu%20Site-0077B5?style=for-the-badge&logo=vercel&logoColor=white&color=0A66C2" alt="Visite Meu Site">
+            <img src="https://img.shields.io/badge/%20My%20Site-0077B5?style=for-the-badge&logo=vercel&logoColor=white&color=0A66C2" alt="Visite Meu Site">
               </a>
         </div>
 <div align="center">
