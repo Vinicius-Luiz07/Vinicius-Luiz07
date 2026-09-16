@@ -16,7 +16,7 @@ My name is Vinicius, i'm 19 years old and i'm passionate about technology, progr
               </a>
         </div>
 <div align="center">
-    <h3 class = "titulo"> Stack and tools i use in studies and projects:
+    <h3 class = "titulo"> Stack and tools i use in studies and projects
 <br>
 <div style = "display: inline_block" class = "tecnologias"></br>
     <p align = "center" font-size = "10">Front-end:</p>
